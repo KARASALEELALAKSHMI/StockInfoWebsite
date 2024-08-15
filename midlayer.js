@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 /* eslint-disable no-unused-vars */
 
-import { ClassifiedSecurities as SecurityData, RecomendedSecurities } from '../MockData.js';
+import { ClassifiedSecurities as SecurityData, RecomendedSecurities } from './MockData.js';
 import Utility from './util.js';
 import Security from './Security.js';
 
